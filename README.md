@@ -1,2 +1,2 @@
 # To-do-example
-todo example with backend
+learning react hooks and useState / useEffect
