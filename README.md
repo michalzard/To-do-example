@@ -8,4 +8,4 @@ What i learned with this project:
 
 Project is able to **persist** data on refresh using [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
-![Image of project](https://imgur.com/a/L1o25b6)
+![Image of project](https://i.imgur.com/xmfsFyk.png)
